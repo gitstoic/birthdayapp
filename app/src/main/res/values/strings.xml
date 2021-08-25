@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="greeting">Happy Birthday Mrs Bakare!!!</string>
+    <string name="name">From Mayowa</string>
+    <string name="birthdaygifticon">birthdaygifticon</string>
+    <string name="submit">submit</string>
+</resources>
